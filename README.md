@@ -1,3 +1,3 @@
 # Mini Python Projects
 
-This is where I store my Python codes. 
+This is where I store my Python projects. 
